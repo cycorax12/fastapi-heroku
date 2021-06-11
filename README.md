@@ -1,5 +1,5 @@
 # fastapi-heroku
-Basic skeleton poject to hoost FastAPI project on Heroku.
+Basic skeleton project to host FastAPI project on Heroku.
 
 # Running on local
 * Clone repository.
